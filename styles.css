@@ -1,0 +1,70 @@
+
+.post {
+    background-color: white;
+    margin: auto;
+    width: 400px;
+    height: 525px;
+}
+body {
+    background: black;
+    margin-top: 40px;
+
+}
+div .titulo{
+    display: flex;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5px;
+    margin-bottom: 10px;
+    height: 50px;
+}
+.foto img {
+    width: 100%;
+}
+
+div .icono{
+    width: 8%;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 12px;
+}
+div .htlm5 {
+    width: 72%;
+    margin-top: 0px;
+}
+div .puntitos {
+    width: 10%;
+}
+/* div .htlm5 p {
+    margin-top 
+}
+*/
+div .fa-solid {
+    font-size: 30px;
+    margin-top: 12px;
+}
+div .htlm5 h1{
+    font-size: 15px;
+}
+div .htlm5 p {
+    font-size: 15px;
+    margin-top: -8px;
+}
+
+#bookmark {    
+    float: right ;
+    margin-right: 10px;
+}
+div .descripcion {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+div .icons {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.texto > p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
